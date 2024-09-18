@@ -5,7 +5,7 @@ export { default as DashboardLayoutPage } from './DashboardLayoutPage';
 export { default as DeleteJobPage } from './DeleteJobPage';
 export { default as EditJobPage } from './EditJobPage';
 export { default as ErrorPage } from './ErrorPage';
-export { default as HomeLayoutPage } from './HomeLayoutPage';
+export { default as HomePage } from './HomePage';
 export { default as LandingPage } from './LandingPage';
 export { default as LoginPage } from './LoginPage';
 export { default as ProfilePage } from './ProfilePage';
